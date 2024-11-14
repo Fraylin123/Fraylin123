@@ -6,7 +6,7 @@ I'm a first-generation Hispanic college student passionate about developing tech
 
 🔭 Currently, I am working on a Workout Routine App (React, MongoDB, Node.js) that allows users to create their own workout routine by browsing a collection of exercises and selecting the exercises they would like to incorporate into their workout regimen. The app will allow users to see the proper form to do the exercise as well as read fitness-related articles.
 
-🌱 I’m currently improving my React and MongoDB skills. I am also exploring cloud computing and machine learning.
+🌱 I am currently improving my React and MongoDB skills. I am also exploring cloud computing and machine learning.
   
 📫 You can reach me via email: fraylinayala321@gmail.com or LinkedIn: https://www.linkedin.com/in/fraylinayala/
 

@@ -1,6 +1,6 @@
-# Hi, I'm Fraylin Ayala👋
+# **Hi, I'm Fraylin Ayala👋**
 
-***"It’s remarkable what you can build if you just don’t stop. It’s remarkable the business you can build if you don’t stop working. It’s remarkable the body you can build if you don’t stop training. It’s remarkable the knowledge you can build if you don’t stop learning" - James Clear***
+**"It’s remarkable what you can build if you just don’t stop. It’s remarkable the business you can build if you don’t stop working. It’s remarkable the body you can build if you don’t stop training. It’s remarkable the knowledge you can build if you don’t stop learning" - James Clear*
 
 I'm a first-generation Hispanic college student passionate about developing technologies and tools that help people accomplish their goals and facilitate their day-to-day work. I am a competitive person who loves being challenged and enjoys solving complex problems.
 

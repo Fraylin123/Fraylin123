@@ -6,7 +6,7 @@ I'm a first-generation Hispanic college student passionate about developing tech
 
 🌱 I am currently improving my React and MongoDB skills. I am also exploring cloud computing and machine learning.
   
-📫 You can reach me via email: fraylinayala321@gmail.com or LinkedIn: https://www.linkedin.com/in/fraylinayala/
+📫 You can reach me via LinkedIn: LinkedIn: https://www.linkedin.com/in/fraylinayala/
 
 😄 Pronouns: He/Him
 
